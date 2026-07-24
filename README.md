@@ -7,14 +7,16 @@ Curious by nature, I currently use GitHub mainly to write and manage my Bachelor
 ## Technologies & Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=latex,git,github,vscode" alt="LaTeX, Git, GitHub and Visual Studio Code" />
+  <img src="https://skillicons.dev/icons?i=latex,github,vscode" alt="LaTeX, Git, GitHub and Visual Studio Code" />
 </p>
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Microsoft Excel" />
-  <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Microsoft Excel" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/microsoftexcel.svg" height="48" width="48" alt="Microsoft Excel" />
-  <img src="./assets/icons/excel.svg" width="48" height="48" alt="Excel">
+<img src="./assets/icons/outlook.svg" width="48" height="48" alt="Microsoft Outlook">
+<img src="./assets/icons/excel.svg" width="48" height="48" alt="Microsoft Excel">
+<img src="./assets/icons/word.svg" width="48" height="48" alt="Microsoft Word">
+<img src="./assets/icons/powerpoint.svg" width="48" height="48" alt="Microsoft PowerPoint">
+<img src="./assets/icons/teams.svg" width="48" height="48" alt="Microsoft Teams">
+
 </p>
 
 ## Currently
