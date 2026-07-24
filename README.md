@@ -1,4 +1,4 @@
-# Hi, I'm Mario Naldi 👋
+# Hi, I'm Mario 👋
 
 I'm a **Bachelor of Business Administration student** at [Technical University of Cartagena (UPCT)](https://www.upct.es/), member of the [European University of Technology (EUt+)](https://www.univ-tech.eu/) alliance.
 
