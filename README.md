@@ -30,10 +30,16 @@ Curious by nature, I currently use GitHub mainly to write and manage my Bachelor
 
 ## Let's Connect
 
-<a href="https://www.linkedin.com/in/mario-naldi/">
-  <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
-</a>
+<p>
+  <a href="https://www.linkedin.com/in/mario-naldi/">
+    <img
+      src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+      alt="LinkedIn"
+    >
+  </a>
 
-<a href="mailto:marionaldi@outlook.com">
-  <img src="https://img.shields.io/badge/Outlook-Email_me-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Outlook" />
-</a>
+  <a href="mailto:marionaldi@outlook.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Email" >
+  </a>
+</p>
+
