@@ -7,7 +7,7 @@ Curious by nature, I currently use GitHub mainly to write and manage my Bachelor
 ## Technologies & Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=latex,github,vscode" alt="LaTeX, Git, GitHub and Visual Studio Code" /> <img src="./assets/icons/vsc.png" width="48" height="48" alt="Visual Studio Code"> <img src="./assets/icons/zotero.png" width="48" height="48" alt="Microsoft Outlook">
+  <img src="https://skillicons.dev/icons?i=latex" alt="LaTeX" /> <img src="./assets/icons/github.png" width="48" height="48" alt="Github"> <img src="./assets/icons/vsc.png" width="48" height="48" alt="Visual Studio Code"> <img src="./assets/icons/zotero.png" width="48" height="48" alt="Microsoft Outlook">
 </p>
 
 <p align="left">
